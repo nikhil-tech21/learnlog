@@ -26,10 +26,13 @@ This project is built using **React, Node.js, Express, and MongoDB** with authen
 
 ---
 
-## 🖼️ Screenshots
+## 🖥️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login](screenshots/login.png)
+
+### 📝 Signup Page
+![Signup](screenshots/signup.png)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -37,19 +40,22 @@ This project is built using **React, Node.js, Express, and MongoDB** with authen
 ### 🤖 AI Bot
 ![Bot](screenshots/bot.png)
 
+### 💬 Chat Room
+![Chat](screenshots/chat_room.png)
+
 ### 🗺️ Roadmap Generator
 ![Roadmap](screenshots/roadmap.png)
 
-### 📝 Notes Manager
-![Notes](screenshots/notes.png)
+### 📄 Summarizer
+![Summarizer](screenshots/summarizer.png)
 
-### 🗓️ Daily Routine
-![Routine](screenshots/routine.png)
-
-> 📌 Replace image names with your real file names  
-> Example: screenshots/login.png
+### 🎯 Goals / Routine
+![Goals](screenshots/goal.png)
 
 ---
+
+
+
 
 ## 🛠️ Tech Stack
 
