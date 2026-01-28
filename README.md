@@ -40,7 +40,7 @@ This project is built using **React, Node.js, Express, and MongoDB** with authen
 ### 🤖 AI Bot
 ![Bot](screenshots/bot.png)
 
-### 💬  Chat Room
+### 💬 Chat Room
 ![Chat](screenshots/chat_room.png)
 
 ### 🗺️ Roadmap Generator
