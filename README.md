@@ -7,7 +7,7 @@ This project is built using **React, Node.js, Express, and MongoDB** with authen
 
 ---
 
-## 🌟 Features
+## 🌟  Features
 
 🔐 User Authentication (Login & Signup)  
 📘 Create and Manage Courses  
